@@ -69,6 +69,13 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+
+/* Game Library */
+#new-games-section .card,
+#fav-games-section .card {
+    border: 0;
+}
+
 /*  Media queries */
 
 /* Medium devices (tablets, 768px and up) */
